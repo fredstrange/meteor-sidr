@@ -1,0 +1,3 @@
+[submodule "sidr"]
+	path = sidr
+	url = https://github.com/artberri/sidr.git
