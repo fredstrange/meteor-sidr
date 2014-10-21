@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'sidr',
+  name: 'fredstrange:sidr',
   summary: 'Sidr is a jQuery plugin for creating side menus and the easiest way for doing your menu responsive. ',
   version: '1.2.1',
   git: 'https://github.com/fredstrange/meteor-sidr.git'
